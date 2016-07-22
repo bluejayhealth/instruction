@@ -18,7 +18,7 @@ function draw() {
   textSize(y);
   fill(37, 165, 233);
   textFont("Times New Roman");
-  text("i", 346.3, p);
+  text("i", 346.2, p);
   
   if (x > 26) {
     shouldGrow = false;
